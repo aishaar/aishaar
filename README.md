@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=aishaar&icon=3&color=0)](https://visitcount.itsvg.in)
 
-🎓 MS in Computer Science @ Northeastern University
+🎓 MS in Computer Science @ Northeastern University         
 💡 Passionate about **AI, ML, Software Engineering, and Research**  
 🌱 Currently exploring **sci-kit learn and Tensorflow**  
 🚀 Currently working on **Titanic Survival Prediction (ML Project)**  
@@ -49,7 +49,7 @@
 
 - **RecipeIt!** – A recipe recommendation and chat-based app using Android Studio (UI-focused).  
 - **IT Management System** – A system for managing IT resources, users, and operations.  
-- **Titanic Prediction (Ongoing)** – Machine Learning project predicting Titanic passenger survival.  
+- **Titanic Survival Prediction (Ongoing)** – Machine Learning project predicting Titanic passenger survival.  
 
 ---
 
